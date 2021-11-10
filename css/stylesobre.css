@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: right top;
+    background-color: #404040;
+    background-blend-mode: darken;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
